@@ -1,4 +1,4 @@
-# Hospital-Data-Record C++ Binary Search Tree-Linked List
+# Hospital-Management-System C++ Binary Search Tree-Linked List
 In this C++ program, three classes are implemented: "PatientRecord," "TNode," and "HospitalRecord." The "PatientRecord" class manages patient data, while "TNode" class defines nodes for a binary search tree (BST). The "HospitalRecord" class maintains the BST using a linked list approach.
 
 Users can input patient data, which is inserted into the BST. The program then verifies whether the tree is a BST. Additionally, users can perform search, edit, and removal operations on patient records.
